@@ -7,7 +7,7 @@ click this link to view the file which is used for Visulization:  [Tableau Dashb
 * In this project , we have to present a business proposal for a bike-sharing company.
 * I'll create worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
 * The Roadmap of the project is written below:
-1) Using Python and Pandas functions, clean a citibike dataset and again store into CSV file.
+1) Using Python and Pandas functions, clean a [August 2019's citibike dataset](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip) and again store into CSV file.
 2) Import data into Tableau.
 3) Create and style worksheets, dashboards, and stories in Tableau.
 4) Use Tableau worksheets to display data in a professional way.
