@@ -1,6 +1,6 @@
-# NewYork Citibike Visulization
+# NewYork Citibike Visualization
 
-click this link to view the file which is used for Visulization:  [Tableau Dashboard](https://public.tableau.com/app/profile/miral.kansagara/viz/Citibike_visulization/CheckoutTimesForUser?publish=yes)
+click this link to view the file which is used for Visualization:  [Tableau Dashboard](https://public.tableau.com/app/profile/miral.kansagara/viz/Citibike_visulization/CheckoutTimesForUser?publish=yes)
 
 ## Purpose of the Project:
 * Tableau is one of the most popular data visualization tools today.it can be used to transform your data into an engaging story for any audience.
